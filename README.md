@@ -15,7 +15,7 @@ A modern, full-stack Tic Tac Toe game built with .NET Core backend API and React
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
 - [Testing](#testing)
-  [UI Screenshot](#UI Screnshot)
+- [UI Screenshot](#UI Screnshot)
 
 ---
 
