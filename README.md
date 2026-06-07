@@ -353,32 +353,6 @@ This project is open source and available for educational purposes.
 - GitHub: [@rdpatil112000](https://github.com/rdpatil112000)
 - Email: rdpatil112000@gmail.com
 
----
 
-## 📞 Support
-
-If you encounter any issues:
-
-1. Check that both backend and frontend are running
-2. Ensure API URL in frontend matches backend URL
-3. Check browser console for frontend errors
-4. Check terminal for backend errors
-5. Verify all prerequisites are installed
-
-For more help, open an issue on GitHub.
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Add authentication/authorization
-- [ ] Implement multiplayer (WebSocket)
-- [ ] Add game replay feature
-- [ ] Database integration (SQL Server/PostgreSQL)
-- [ ] Docker containerization
-- [ ] CI/CD pipeline
-
----
-
-**Last Updated:** June 2025
+**Last Updated:** June 2026
 **Version:** 1.0.0
