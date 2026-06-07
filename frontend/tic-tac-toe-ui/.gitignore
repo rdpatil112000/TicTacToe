@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+dist/
+build/
+
+# Node.js dependencies
+node_modules/
+
+# IDE/editor settings
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+
+# App settings (keep secrets/configs out of repo)
+appsettings.Development.json
+appsettings.json
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
