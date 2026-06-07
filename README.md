@@ -309,7 +309,7 @@ Total tests: 5
 - ✅ Responsive design for all screen sizes
 
 ---
-##UI Screnshot
+## UI Screnshot
 <img width="379" height="434" alt="image" src="https://github.com/user-attachments/assets/18fedf88-4bb8-43ad-aa8c-6f9682732b42" />
 
 <img width="332" height="480" alt="image" src="https://github.com/user-attachments/assets/230b6844-3fcd-4475-9175-ab58f7992a2e" />
